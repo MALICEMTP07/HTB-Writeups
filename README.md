@@ -90,6 +90,7 @@ zwischen einem Walkthrough und einer Methodik-Dokumentation.
 
 ## Verwandte Repositories
 
+- [bug-bounty-reports](https://github.com/JBMTP07/bug-bounty-reports) — sanitisierte Public-Reports realer Findings (Chained RCE, Command Injection)
 - [Study-Notes](https://github.com/JBMTP07/Study-Notes) — strukturierte Methodik-Notes (Linux/Windows PrivEsc, AD, Web, Reporting)
 - [JBMTP07.github.io](https://github.com/JBMTP07/JBMTP07.github.io) — Portfolio
 
